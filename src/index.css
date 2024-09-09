@@ -1,0 +1,4 @@
+input:focus + label {
+    color: red;
+    transform: translate(0, -1.9rem);
+}
