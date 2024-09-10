@@ -1,4 +1,5 @@
-This is a Design System made primarily with React.js, tailwindCSS, twin-macro to design & test UI components.
+This is a Design System made primarily with React.js, twin-macro & tailwindCSS. 
+To design & test UI components.
 
 Run `npm run storyboook` in the project directory
 
